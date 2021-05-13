@@ -1,12 +1,9 @@
 # UX Design
 
-目录 
 
-UX DesignDesign Process and Early Prototyping and ideation1. Design Process2. Mood Board3. Paper PrototypingIdentification of interacting users and broader stakeholders1. Interacting users2. Broader stakeholdersUX approach1. Brainstorming2. Data information retrieval3. User interviews (open-ended questions)Understanding of user group1. Initial open user questions2. Results of interview3. PersonaWireframes and interaction flow diagrams for final key subsystems1. Mind maps2. Flow chart
+## Design Process and Early Prototyping and ideation
 
-#### Design Process and Early Prototyping and ideation
-
-##### 1. Design Process
+### 1. Design Process
 
 ![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WeChata764736f9017031f34e5c0688079496c.png)
 
@@ -20,7 +17,7 @@ Finally, according to the preliminary investigation and results, the final versi
 
 
 
-##### 2. Mood Board
+### 2. Mood Board
 
 Before the UX design, the five members of the team held an online Brainstorming meeting, which was set for 30 minutes. The goal was to identify a set of key words that could describe the product of the team's project and prepare the mood board for later creation.
 
@@ -40,7 +37,7 @@ Collecting images from the UX designer to make the [Mood Board](http://www.gomoo
 
 
 
-##### 3. Paper Prototyping
+### 3. Paper Prototyping
 
 After the discussion in the group meeting, the product is initially planned to have the following three pages, namely functions:
 
@@ -75,9 +72,9 @@ After the discussion in the group meeting, the product is initially planned to h
 
 
 
-#### Identification of interacting users and broader stakeholders
+## Identification of interacting users and broader stakeholders
 
-##### 1. Interacting users
+### 1. Interacting users
 
 With the rapid development of economy and science and technology, people have more and more purchasing power, and more and more consumption objects and methods. As a result, people have less and less feeling about "spending money". A little APP, a quick scan of the QR code, and the transaction is completed. At the end of the month, people often look at their credit card bills and paycard balances and wonder, where has all my money gone? Therefore, accounting has gradually become a necessary part of people's lives, therefore, accounting products emerged at the historic moment.
 
@@ -89,7 +86,7 @@ To sum up, our target group is urban people aged 24-35, and the details are pres
 
 
 
-##### 2. Broader stakeholders
+### 2. Broader stakeholders
 
 - The project team
 
@@ -105,21 +102,21 @@ To sum up, our target group is urban people aged 24-35, and the details are pres
 
   
 
-#### UX approach
+## UX approach
 
-##### 1. Brainstorming
+### 1. Brainstorming
 
 This method mainly consists of value engineering working group members discussing and discussing in the form of meeting in a normal harmonious and unrestricted atmosphere, breaking conventions, thinking positively, speaking freely and fully expressing their views. This approach is used in UX design to establish the initial product style. Gathering consensus in the early group meetings, deciding the main product features at a higher level and meeting expectations, reducing repeated revisions of the main keynote in the future and saving communication costs.
 
 
 
-##### 2. Data information retrieval
+### 2. Data information retrieval
 
 User groups and broad stakeholders are preliminarily determined through literature retrieval of user data, and UI and UX are designed according to the data in the later stage to better conform the program to the habits and preferences of user groups.
 
 
 
-##### 3. User interviews (open-ended questions)
+### 3. User interviews (open-ended questions)
 
 To study users, it is necessary to understand their inner needs through their language and behavior, eliminate fake needs and screen real needs, that is, to see the essence through the phenomenon and dig out the core demands of users. Open-ended questions keep the conversation going and give it some depth and interest.
 
@@ -127,9 +124,9 @@ In this project, the user interview is used to determine the target users and un
 
 
 
-#### Understanding of user group
+## Understanding of user group
 
-##### 1. Initial open user questions
+### 1. Initial open user questions
 
 User portrait is the virtual representative of real users. First of all, it is based on the real, based on the situational interview of real users. In order to identify the target group, the interaction designer asked five people who might use the bookkeeping software to conduct user interviews. The user interview used a series of open-ended questions:
 
@@ -145,7 +142,7 @@ User portrait is the virtual representative of real users. First of all, it is b
 
    
 
-##### 2. Results of interview
+### 2. Results of interview
 
 - Target Group 1: Student Party
 
@@ -245,7 +242,7 @@ User portrait is the virtual representative of real users. First of all, it is b
 
 It can be seen from the interview records that most people have had contact with efficiency programs, so they are not unfamiliar with the use of accounting programs, and it is easy to promote our programs. The second question is whether they have an overall plan for their spending. Most of them have a strong demand for it. But for the deeper level of financial management, only the working people, or the hands of a certain amount of money will understand. Therefore, in the initial stage, our program will not be involved, you can develop this function after a certain user group. The accounting program in the market has a certain user group, so we need to focus on the analysis of competing products and extract the difference between our program and the program in the market. The final bookkeeping procedure function Settings related issues, and our team's original intention coincides, hope that bookkeeping procedures more instrumental, that is, without affecting the final function of the case, simplicity ranked first, at the same time with a certain operability.
 
-##### 3. Persona
+### 3. Persona
 
 Through preliminary user interviews, some portraits are made to represent the possible real user groups in a virtual way. First of all, it is based on reality. It is not a specific person. It is divided into different types according to the differences of the target's behavior and views, quickly organized together, and then extracted the newly obtained types to form a type of user portrait.
 
@@ -255,11 +252,11 @@ Through preliminary user interviews, some portraits are made to represent the po
 
 ![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WeChat406543ec38f63ff2ab0887965b88351f.png)
 
-#### Wireframes and interaction flow diagrams for final key subsystems
+## Wireframes and interaction flow diagrams for final key subsystems
 
-##### 1. Mind maps
+### 1. Mind maps
 
 
 
-##### 2. Flow chart
+### 2. Flow chart
 
