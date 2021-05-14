@@ -252,5 +252,9 @@ Through preliminary user interviews, some portraits are made to represent the po
 
 ### 1. Mind maps
 
+![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WeChat07a66d3016063ba24cdad0fb9f0e24b3.png)
+
 ### 2. Flow chart
+
+![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/%E8%AE%B0%E8%B4%A6.png)
 
