@@ -10,7 +10,7 @@ In the early stage, through the joint participation of team members, the product
 
 A good product is about users, so the medium term work of UX is about users.
 
-Firstly, the main user groups of the accounting tools were identified through data retrieval methods. Again through the [Persona](https://mortoray.com/2019/03/28/a-programmers-introduction-to-user-portraits/#:~:text=User portraits%2C or personas%2C are,the people using our product.) method to specify who the target user is, outline the target user, contact user demands and confirm the design direction. The user role formed by user portrait is representative and can represent the main audience and target group of the product.
+Firstly, the main user groups of the accounting tools were identified through data retrieval methods. Again through the [Persona](https://mortoray.com/2019/03/28/a-programmers-introduction-to-user-portraits/#:~:text=User%20portraits%2C%20or%20personas%2C%20are,the%20people%20using%20our%20product.) method to specify who the target user is, outline the target user, contact user demands and confirm the design direction. The user role formed by user portrait is representative and can represent the main audience and target group of the product.
 
 Finally, according to the preliminary investigation and results, the final version was determined by discussing with the front-end engineers. Of course, our team will not be dissolved because of this. The interaction designer has made another excellent version to improve the game performance, interface design and layout rationality in all aspects as a future improvement plan.
 
@@ -45,29 +45,27 @@ After the discussion in the group meeting, the product is initially planned to h
   ![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WeChat5f1b6a50bfea93bca3057487bdb35b9f.png)
 
   This page is the main page of our accounting products, that is, the user enters the page directly after boarding the page. The page has three sections:
-
-  1. The first board is like a calculator, where users can input the amount to show their single expenditure or income.
-  2. The second block is the Note function. When the user enters the amount, he may make some notes to remind himself or just record it.
-  3. The third block is the TAGE function. The user must select the type of the record when entering the amount. This type can be food, clothing and other properties provided by the system, users can also manually add their own desired tags.
-  4. The fourth section is to select whether the amount belongs to EXPEND or INCOME. This can also be used to calculate the total amount of users at a later stage (it is not shown in the manuscript, but it is very important).
-
-![WechatIMG34](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WechatIMG34.jpeg)
+  
+  a. The first board is like a calculator, where users can input the amount to show their single expenditure or income.
+  b. The second block is the Note function. When the user enters the amount, he may make some notes to remind himself or just record it.
+  c. The third block is the TAGE function. The user must select the type of the record when entering the amount. This type can be food, clothing and other properties provided by the system, users can also manually add their own desired tags.
+  d. The fourth section is to select whether the amount belongs to EXPEND or INCOME. This can also be used to calculate the total amount of users at a later stage (it is not shown in the manuscript, but it is very important).
+  ![WechatIMG34](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WechatIMG34.jpeg)
+  
 
 - A statistic page
 
   ![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WeChat7424a1137d2bc611f8727663c93ad1c1.png)
 
   This page is responsible for displaying the record that the user has entered. Expend and INCOME are recorded and counted separately. Users can modify records in this page, such as label change, amount modification, remarks modification, deletion of records, etc.
-
-![WechatIMG35](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WechatIMG35.jpeg)
+  ![WechatIMG35](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WechatIMG35.jpeg)
 
 - A tag page
 
   ![tage Page flow](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WeChat02392af1a4d203697ff0117fa06a8c87.png)
 
   This page supports the user to add or delete tags, but cannot delete the original tags provided by the system. When the user deletes the used tag (for example, the user wants to delete the [Game]tag, but the [Game]tag is already used), the system will pop up a second confirmation box to confirm the user's action.
-
-![WechatIMG36](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WechatIMG36.jpeg)
+  ![WechatIMG36](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WechatIMG36.jpeg)
 
 
 
