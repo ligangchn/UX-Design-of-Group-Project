@@ -258,3 +258,7 @@ Through preliminary user interviews, some portraits are made to represent the po
 
 ![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/%E8%AE%B0%E8%B4%A6.png)
 
+### 3. The prototype
+
+
+
