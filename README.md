@@ -1,7 +1,5 @@
 # UX Design
 
-[TOC]
-
 ## Design Process and Early Prototyping and ideation
 
 ### 1. Design Process
