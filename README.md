@@ -52,7 +52,6 @@ After the discussion in the group meeting, the product is initially planned to h
   d. The fourth section is to select whether the amount belongs to EXPEND or INCOME. This can also be used to calculate the total amount of users at a later stage (it is not shown in the manuscript, but it is very important).
   ![WechatIMG34](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WechatIMG34.jpeg)
   
-
 - A statistic page
 
   ![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/WeChat7424a1137d2bc611f8727663c93ad1c1.png)
@@ -252,8 +251,6 @@ Through preliminary user interviews, some portraits are made to represent the po
 ## Wireframes and interaction flow diagrams for final key subsystems
 
 ### 1. Mind maps
-
-
 
 ### 2. Flow chart
 
