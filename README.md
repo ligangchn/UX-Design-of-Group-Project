@@ -76,7 +76,7 @@ With the rapid development of economy and science and technology, people have mo
 
 According to [Analysis of competitive products in accounting and financial APP: Why can you dominate?](http://www.woshipm.com/evaluating/810827.html) to the user scene, customer pain points, user requirements, according to the analysis of the accounting program aimed at spending more, not take written paper pen to an account; Trying to control excessive spending; You have a hobby and you want to visualize the cost of that hobby.
 
-According to competing goods [analysis accounting software](https://www.jianshu.com/p/a7b9d8e07946) for accounting software, to use the books of women accounted for most of the market, from age 24 and 35 user accounts for baby. Among them, users aged between 31 and 35 accounted for 40 percent, and most of the users of such products are from the super first-tier cities or first-tier cities.
+According to [competing goods analysis accounting software](https://www.jianshu.com/p/a7b9d8e07946) for accounting software, to use the books of women accounted for most of the market, from age 24 and 35 user accounts for baby. Among them, users aged between 31 and 35 accounted for 40 percent, and most of the users of such products are from the super first-tier cities or first-tier cities.
 
 To sum up, our target group is urban people aged 24-35, and the details are presented in [Understanding of user group](#Understanding of user group).
 
