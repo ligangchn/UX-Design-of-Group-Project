@@ -270,7 +270,7 @@ Through preliminary user interviews, some portraits are made to represent the po
 
 ![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/3-2_CHECK%20BADGES.png)
 
-Create a new "my" page, move the original TAB page to this page, and add a badge system.
+Create a new "MINE" page, move the original TAG page to this page, and add a badge system.
 
 The badges system will be explained in detail on the "Game Elements" page.
 
