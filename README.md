@@ -260,5 +260,19 @@ Through preliminary user interviews, some portraits are made to represent the po
 
 ### 3. The prototype
 
+![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/1_BOOKKEEPING.png)
+
+![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/2_STATISTIC.png)
+
+![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/3_MINE.png)
+
+![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/3-1_MANAGE%20TAGS.png)
+
+![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/3-2_CHECK%20BADGES.png)
+
+新建“我的”页面，将原有的标签页面移到此页面，再新增徽章系统。
+
+徽章系统将在“游戏元素”页面详细介绍。
+
 
 
