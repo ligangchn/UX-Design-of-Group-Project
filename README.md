@@ -270,9 +270,9 @@ Through preliminary user interviews, some portraits are made to represent the po
 
 ![](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/images/3-2_CHECK%20BADGES.png)
 
-新建“我的”页面，将原有的标签页面移到此页面，再新增徽章系统。
+Create a new "my" page, move the original TAB page to this page, and add a badge system.
 
-徽章系统将在“游戏元素”页面详细介绍。
+The badges system will be explained in detail on the "Game Elements" page.
 
 
 
